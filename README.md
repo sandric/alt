@@ -60,4 +60,4 @@ You can override this with the `--cfg` cli argument.
 )
 ```
 
-This will toggle the `ivy` ktrl layer when Emacs is in foucs AND `ivy` is active
+This will toggle the `ivy` ktrl layer when Emacs is in focus AND `ivy` is active
